@@ -19,6 +19,10 @@ EdgeOne-Redeem 是一个用于自动兑换 EdgeOne 免费计划的工具，支�
 
 ![安全设置](https://github.com/user-attachments/assets/3a60589b-edcf-4edb-a3cc-593682622c54)
 
+## 预览
+
+![界面预览](https://github.com/user-attachments/assets/ca105fcb-b67b-4d0e-b1db-a62572c10dd4)
+
 
 ## 安装要求
 
