@@ -15,6 +15,11 @@ EdgeOne-Redeem 是一个用于自动兑换 EdgeOne 免费计划的工具，支�
 
 ## 注意
 
+- 时间：2025年7月31日18:03:42
+- EdgeOne目前注册即可获取兑换码，链接地址：https://edgeone.ai/get-free-plan
+<img width="1336" height="688" alt="image" src="https://github.com/user-attachments/assets/ddb97673-2217-4f86-831a-e382b3d76985" />
+
+
 - 时间：2025年6月19日15:09:55
 - EdgeOne频道修改兑换码赠送规则，改为随机抽奖
 - 频道内也许会有大善人发兑换码，兑换成功会显示→ 0 | 无说明
